@@ -38,4 +38,4 @@ Contributing to:
 
 <a href="https://github.com/maxboels/resume">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=resume&theme=radical" />
-</a>    
+</a>  
