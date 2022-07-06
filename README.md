@@ -13,6 +13,7 @@ I'm [Maxence](https://maxboels.com/)! I'am a current PhD student at King's Colle
 :mortar_board: [scholar](https://scholar.google.com/citations?user=vM4QTAkAAAAJ&hl=en)
 
 📫 email: boelsmaxence@gmail.com
+
 🔭 Research Interests: Computer Vision, Video Understanding, Neurosciences, Surgical Action Recognition.
 
 
@@ -20,7 +21,7 @@ Publications:
 - [Comming Soon ...]()
 
 Contributing to: 
-- [MONAI](https://github.com/Project-MONAI)
+- [MONAI: AI Toolkit for Healthcare Imaging](https://github.com/Project-MONAI)
 
 
 <a href="https://github.com/maxboels/github-readme-stats">
@@ -31,10 +32,10 @@ Contributing to:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxboels&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,tex" />
 </a>
 
-<a href="https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=event-based-monocular-hpe&theme=radical" />
+<a href="https://github.com/maxboels/Predicting-Breast-Cancer-Malignancy-from-X-rays">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=Predicting-Breast-Cancer-Malignancy-from-X-rays&theme=radical" />
 </a>    
 
-<a href="https://github.com/gianscarpe/resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianscarpe&repo=resume&theme=radical" />
+<a href="https://github.com/maxboels/resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=resume&theme=radical" />
 </a>    
