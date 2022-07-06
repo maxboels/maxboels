@@ -36,6 +36,6 @@ Contributing to:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=Predicting-Breast-Cancer-Malignancy-from-X-rays&theme=radical" />
 </a>    
 
-<a href="https://github.com/maxboels/maxboels.github.io/blob/main/docs/Maxence_Boels_CV_2021.pdf">
+<a href="https://maxboels.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=maxboels.github.io&theme=radical" />
 </a>  
