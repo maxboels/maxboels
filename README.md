@@ -37,5 +37,5 @@ Contributing to:
 </a>    
 
 <a href="https://github.com/maxboels/maxboels.github.io/blob/main/docs/Maxence_Boels_CV_2021.pdf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maxboels&repo=Resume&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m&repo=maxboels.github.io&theme=radical" />
 </a>  
