@@ -1,5 +1,4 @@
 ### Hi there 👋
-### What's up there? 👋
 
 I'm [Maxence](https://maxboels.com/)! I'am a current PhD student at King's College London working on Surgical Robotics and Computer Vision.
 
