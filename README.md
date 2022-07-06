@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Maxence](https://maxboels.com/)! As a PhD student at King's College London, I explore the fields of Surgical Robotics and Computer Vision.
+I'm [Maxence](https://maxboels.com/)! A PhD student at King's College London working on Surgical Robotics and Computer Vision.
 
 <a href=https://www.linkedin.com/in/maxence-boels/>
   <img align="left" alt=Maxboels' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
