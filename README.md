@@ -29,7 +29,7 @@ Contributing to:
 </a>
 <a href="https://github.com/maxboels">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxboels&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,tex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxboels&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,tex,scss" />
 </a>
 
 <a href="https://github.com/maxboels/Predicting-Breast-Cancer-Malignancy-from-X-rays">
