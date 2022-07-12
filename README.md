@@ -6,7 +6,7 @@ I'm [Maxence](https://maxboels.com/)! A PhD student at King's College London wor
   <img align="left" alt=Maxboels' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=gianscarpe.gianscarpe)
+![](https://visitor-badge.glitch.me/badge?page_id=maxboels.maxboels)
 
 :book: [blog](https://medium.com/@boelsmaxence)\
 :newspaper_roll: [resume](https://github.com/maxboels/maxboels.github.io/blob/main/docs/Maxence_Boels_CV_2021.pdf)\
