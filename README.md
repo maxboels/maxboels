@@ -14,7 +14,8 @@ I'm [Maxence](https://maxboels.github.io/)! A PhD student at King's College Lond
 
 
 Publications:
-- [Comming Soon ...]()
+- [LoViT: Long Video Transformer for Surgical Phase Recognition](https://arxiv.org/abs/2305.08989)
+- [IPCAI 2023 Submission under review]()
 
 Contributing to: 
 - [MONAI: AI Toolkit for Healthcare Imaging](https://github.com/Project-MONAI)
